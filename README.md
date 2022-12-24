@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Domingos
 - 🌱 I’m a Computer Science student at the University of Virginia
-- 📫 email:chrisd03@outlook.com
+- 📫 email: chrisdk.2003@gmail.com
 
 <!---
 chrisd03/chrisd03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
